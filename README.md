@@ -3,13 +3,14 @@
 
 ![GitHub Logo](https://i.ibb.co/P17GFWJ/app-icon.png)
 
-iTunesAutoSync is an application that automatically adds songs from your downloads into itunes. Located in the menu bar, just start the app and you computer automatically adds the songs to your iTunes Library. 
+iTunesAutoSync is an application that automatically adds songs from your downloads into itunes. Located in the menu bar, just start the app and your computer automatically adds the songs to your iTunes Library. 
 
 ![GitHub Logo](https://i.ibb.co/MccGycs/Screenshot-2020-02-20-21-20-26.png)
 
 ### Download 
 
 You can download the app under releases
+https://github.com/folabi-masha/iTunesSyncApp/releases/tag/1.0
 
 ### Usage
 
